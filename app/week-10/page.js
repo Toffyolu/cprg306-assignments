@@ -25,7 +25,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-slate-900 p-8 text-slate-100">
       <div className="mx-auto max-w-xl rounded-lg bg-white/5 p-6">
-        <h1 className="mb-4 text-3xl font-bold">Week 9</h1>
+        <h1 className="mb-4 text-3xl font-bold">Week 10</h1>
 
         {!user ? (
           <div className="space-y-4">
